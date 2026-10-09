@@ -1,4 +1,4 @@
-const SW_VERSION  = 'v5';
+const SW_VERSION  = 'v6';
 const SHELL_CACHE = `drphone-shell-${SW_VERSION}`;
 
 const SHELL_ASSETS = [
